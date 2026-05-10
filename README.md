@@ -4,7 +4,12 @@ Weather Station made with Raspberry Pi for indoor and outdoor tempereature measu
 
 ![rasp1](https://github.com/97131004/Weather-Station/blob/main/rasp1.jpg?raw=true)
 
-![rasp2](https://github.com/97131004/Weather-Station/blob/main/rasp2.jpg?raw=true)
+![rasp1](https://github.com/97131004/Weather-Station/blob/main/rasp2.jpg?raw=true)
+
+![lcd](https://github.com/97131004/Weather-Station/blob/main/lcd.jpg?raw=true)
+
+![plots](https://github.com/97131004/Weather-Station/blob/main/plots.jpg?raw=true)
+
 
 ## Specifications and structure
 
@@ -14,8 +19,10 @@ Weather Station made with Raspberry Pi for indoor and outdoor tempereature measu
 - 4 pull-down buttons for menu navigation (with wiringPi)
 - Visualization of temeparature-time diagrams (with MIT) on monitor via HDMI to the Raspberry
 
+
 ## Fritzing sketch of all hardware
 ![fritzing](https://github.com/97131004/Weather-Station/blob/main/fritzing.png?raw=true)
+
 
 ## Installation
 
@@ -31,6 +38,7 @@ Execute the progam using the command line:
 ```
 ./WeatherStation
 ```
+
 
 ## License
 
